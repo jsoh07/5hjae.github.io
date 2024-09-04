@@ -6,11 +6,11 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: test
-title: Your job title
-email: Your email (optional)
+name: 오재석
+title: 프론트엔드 개발자
+email: jsoh637@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-9101-8628
 # phone_title: Phone (Phone title override)
 website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
