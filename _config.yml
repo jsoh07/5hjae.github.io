@@ -47,7 +47,7 @@ about_content: | # this will include new lines to allow paragraphs
     - 연성대학교 (디지털전자과)
 
 content:
-  - title: Projects # Title for the section
+  - title: Project 1 # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -63,8 +63,8 @@ content:
         quote: >
           '웨이브' 사이트를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
         description: | # this will include new lines to allow paragraphs     
-content:
-  - title:
+        
+  - title: Project 2 # Title for the section
     layout: list # Type of content section (list/text)      
     content:
       - layout: left
