@@ -12,7 +12,7 @@ email: jsoh637@gmail.com
 # email_title: Email (Email title override)
 phone: 010-9101-8628
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,13 +20,13 @@ darkmode: false
 
 # Social links
 github_username:  jsoh07
-googlescholar_username: D847cGsAAAAJ
+velog_username: jsoh07
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -41,13 +41,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/ohjaeseok.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+    - 오재석
+    - 1994.07.21
+    - 경기도 부천시
+    - 연성대학교 (디지털전자과)
 
 content:
   - title: Projects # Title for the section
@@ -56,20 +56,28 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Portfolio
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: https://jsoh07.github.io/Portfolio
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          개인 포트폴리오 웹페이지 입니다.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+
+        title: movie-bank
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: https://jsoh07.github.io/movie-bank
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          '웨이브' 사이트를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
+        description: | # this will include new lines to allow paragraphs          
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
