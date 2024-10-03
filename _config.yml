@@ -12,8 +12,8 @@ email: jsoh637@gmail.com
 # email_title: Email (Email title override)
 phone: 010-9101-8628
 # phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+website: https://velog.io/@jsoh07/posts
+website_title: velog
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -59,7 +59,7 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/jsoh07/movie-bank
         quote: >
           '웨이브' 사이트를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
         description: | # this will include new lines to allow paragraphs     
@@ -76,14 +76,15 @@ content:
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/jsoh07/weather-app
         quote: >
           openweathermap Api를 이용하여 React로 만든 실시간 날씨 정보 사이트 입니다.
         description: | # this will include new lines to allow paragraphs    
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content:
+    
       
 
 # Footer
