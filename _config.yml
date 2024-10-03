@@ -10,8 +10,8 @@ name: Ohjaeseok
 title: 프론트엔드 개발자
 email: jsoh637@gmail.com
 # email_title: Email (Email title override)
-website: https://velog.io/@jsoh07/posts
-website_title: velog
+# website: https://velog.io/@jsoh07/posts
+# website_title: velog
 phone: 010-9101-8628
 # phone_title: Phone (Phone title override)
 
@@ -56,7 +56,7 @@ content:
             icon: fab fa-github
             url: https://github.com/jsoh07/movie-bank
         quote: >
-          '웨이브' 사이트를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
+          '웨이브'를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
         description: | # this will include new lines to allow paragraphs     
         
   - title: Project 2 # Title for the section
