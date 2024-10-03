@@ -10,17 +10,18 @@ name: 오재석
 title: 프론트엔드 개발자
 email: jsoh637@gmail.com
 # email_title: Email (Email title override)
-phone: 010-9101-8628
-# phone_title: Phone (Phone title override)
 website: https://velog.io/@jsoh07/posts
 website_title: velog
+phone: 010-9101-8628
+# phone_title: Phone (Phone title override)
+
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 github_username:  jsoh07
-velog_username: jsoh07
+velog.io_username: jsoh07
 
 # Additional icon links
 # additional_links:
