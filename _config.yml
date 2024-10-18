@@ -48,10 +48,13 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Experience
-        content: test1234567890
+        title: 쉐어마인드
+        text: 2021.10 ~ 2023.06
         quote: >
-          '웨이브'를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
+          SI개발: 
+          `비상교육 온리원` 플랫폼 구축, 개발팀에 속해 공지사항, 카테고리 부분들을 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, MySql 들을 활용해 업무를 진행하였습니다.
+          SM(시스템 운영, 유지 보수):
+          `EBSMath` 사이트에서 이벤트 파트를 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, Oracle, MySql 들을 활용해 업무를 진행하였습니다.
         description: | # this will include new lines to allow paragraphs
 
   - title: Project 1 # Title for the section
@@ -91,9 +94,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      이전 회사에서 맡은 업무를 진행하면서 느꼈던,   
+      이전 회사에서 백엔드 개발자로 시작하였지만 맡은 업무를 진행하면서 백엔드 뿐만 아니라,   
       
-      만들고 바꾸면서 나타나는 화면이 재밌었고 흥미가 생겨서 프론트엔드 개발자를 꿈꾸게 되었습니다.
+      프론트도 하면서 만들고 바꾸면서 나타나는 화면이 재밌었고 흥미가 생겨서 프론트엔드 개발자를 꿈꾸게 되었습니다.
 
       수많은 도전과 경험을 통해 다양한 기술 스택을 쌓아 적재적소에 알맞은 기술을 적용하여
     
