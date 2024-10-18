@@ -49,7 +49,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 쉐어마인드
-        dates: 2021.10 ~ 2023.06
+        sub_title: 2021.10 ~ 2023.06
         description: | # this will include new lines to allow paragraphs
          * SI개발: `비상교육 온리원` 플랫폼 구축, 개발팀에 속해 공지사항, 카테고리 부분들을 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, MySql 들을 활용해 업무를 진행하였습니다.
         
