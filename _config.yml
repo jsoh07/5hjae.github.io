@@ -51,14 +51,10 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 쉐어마인드
         sub_title: 2021.10 ~ 2023.06
-        quote: >
-          SI개발: `비상교육 온리원` 플랫폼 구축
         description: | # this will include new lines to allow paragraphs
-         * 개발팀에 속해 공지사항 게시판과 플랫폼 전체 카테고리 부분들을 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, MySql 들을 활용해 업무를 진행하였습니다.
-        quote: >
-          SM(시스템 운영, 유지 보수): `EBSMath` 사이트
-        description: | # this will include new lines to allow paragraphs
-         * `EBSMath` 사이트에서 이벤트 파트를 맡아 이벤트 페이지 개발 및 유지보수를 진행하였고 Java, JSP, JavaScript, HTML, CSS, jQuery, Oracle, MySql 들을 활용하였습니다.
+         * SI개발: `비상교육 온리원` 플랫폼 구축 및 개발 프로젝트의 개발팀에 속해 공지사항 게시판과 플랫폼 전체 카테고리 부분들을 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, MySql 들을 활용해 업무를 진행하였습니다.
+        
+         * SM(시스템 운영, 유지 보수): `EBSMath` 사이트에서 이벤트 파트를 맡아 이벤트 페이지 개발 및 유지보수를 진행하였고 Java, JSP, JavaScript, HTML, CSS, jQuery, Oracle, MySql 들을 활용하였습니다.
 
   - title: Project 1 # Title for the section
     layout: list # Type of content section (list/text)
