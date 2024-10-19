@@ -55,40 +55,75 @@ content:
          * SI개발: `비상교육 온리원` 플랫폼 구축 및 개발 프로젝트의 개발팀에 속해 공지사항 게시판과 플랫폼 전체 카테고리 부분들을 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, MySql 들을 활용해 업무를 진행하였습니다.
         
          * SM(시스템 운영, 유지 보수): `EBSMath` 사이트에서 이벤트 파트를 맡아 이벤트 페이지 개발 및 유지보수를 진행하였고 Java, JSP, JavaScript, HTML, CSS, jQuery, Oracle, MySql 들을 활용하였습니다.
+  
+  - title: Portfolio
+    layout: left
+    name: 개인 블로그1
+    link: https://blog.naver.com/ojs463
+    quote: > 
+      개인 기술 블로그
+    description: | # this will include new lines to allow paragraphs
+      *
 
-  - title: Project 1 # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: movie-bank
-        link: jsoh07.github.io/movie-bank
-        link_text: 영화소개 사이트
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/jsoh07/movie-bank
-        quote: >
-          '웨이브'를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
-        description: | # this will include new lines to allow paragraphs     
+    layout: left
+    name: 개인 블로그2
+    link: https://velog.io/@jsoh07/posts
+    quote: > 
+      개인 기술 블로그
+    description: | # this will include new lines to allow paragraphs
+      *
+
+    layout: left
+    name: 개인 프로젝트1
+    link: https://velog.io/@jsoh07/posts
+    quote: > 
+      리액트 공부를 위한 개인 프로젝트
+    description: | # this will include new lines to allow paragraphs
+      *
+    
+    layout: left
+    name: 개인 프로젝트2
+    link: https://velog.io/@jsoh07/posts
+    quote: > 
+      리액트 공부를 위한 개인 프로젝트
+    description: | # this will include new lines to allow paragraphs
+      *  
+      
+      
+
+  # - title: Project 1 # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed
+  #       title: movie-bank
+  #       link: jsoh07.github.io/movie-bank
+  #       link_text: 영화소개 사이트
+  #       additional_links:
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: https://github.com/jsoh07/movie-bank
+  #       quote: >
+  #         '웨이브'를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
+  #       description: | # this will include new lines to allow paragraphs     
         
-  - title: Project 2 # Title for the section
-    layout: list # Type of content section (list/text)      
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed    
-        title: weather-app
-        link: jsoh07.github.io/weather-app
-        link_text: 실시간 날씨 정보 사이트
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/jsoh07/weather-app
-        quote: >
-          openweathermap Api를 이용하여 React로 만든 실시간 날씨 정보 사이트 입니다.
-        description: | # this will include new lines to allow paragraphs    
+  # - title: Project 2 # Title for the section
+  #   layout: list # Type of content section (list/text)      
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed    
+  #       title: weather-app
+  #       link: jsoh07.github.io/weather-app
+  #       link_text: 실시간 날씨 정보 사이트
+  #       additional_links:
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: https://github.com/jsoh07/weather-app
+  #       quote: >
+  #         openweathermap Api를 이용하여 React로 만든 실시간 날씨 정보 사이트 입니다.
+  #       description: | # this will include new lines to allow paragraphs    
 
   - title: A Little More About Me
     layout: text
