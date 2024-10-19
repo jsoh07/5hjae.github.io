@@ -56,47 +56,33 @@ content:
         
          * SM(시스템 운영, 유지 보수): `EBSMath` 사이트에서 이벤트 파트를 맡아 이벤트 페이지 개발 및 유지보수를 진행하였고 Java, JSP, JavaScript, HTML, CSS, jQuery, Oracle, MySql 들을 활용하였습니다.
   
-  # - title: Portfolio
-  #   layout: left
-  #   name: 개인 블로그1
-  #   link: https://blog.naver.com/ojs463
-  #   quote: > 
-  #     개인 기술 블로그
-  #   description: | # this will include new lines to allow paragraphs
-  #     *
-
-  #   layout: left
-  #   name: 개인 블로그2
-  #   link: https://velog.io/@jsoh07/posts
-  #   quote: > 
-  #     개인 기술 블로그
-  #   description: | # this will include new lines to allow paragraphs
-  #     *
-
-  #   layout: left
-  #   name: 개인 프로젝트1
-  #   link: https://velog.io/@jsoh07/posts
-  #   quote: > 
-  #     리액트 공부를 위한 개인 프로젝트
-  #   description: | # this will include new lines to allow paragraphs
-  #     *
-    
-  #   layout: left
-  #   name: 개인 프로젝트2
-  #   link: https://velog.io/@jsoh07/posts
-  #   quote: > 
-  #     리액트 공부를 위한 개인 프로젝트
-  #   description: | # this will include new lines to allow paragraphs
-  #     *  
-      
-      
-
-  - title: Project 1 # Title for the section
+  - title: Portfolio # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #               # other value (or no value) means no border will be displayed
+        title: 개인 블로그_1
+        link: https://blog.naver.com/ojs463
+        quote: >
+          개인 기술 블로그_1
+        description: | # this will include new lines to allow paragraphs
+          * 교육원 때 배웠던 내용들을 매일 일기 형식으로 정리하여 기록
+          * 팀 프로젝트 및 개인 프로젝트에 대한 소스를 정리하여 기록
+
+      - layout: left
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #               # other value (or no value) means no border will be displayed
+        title: 개인 블로그_2
+        link: https://velog.io/@jsoh07/posts
+        quote: >
+          개인 기술 블로그_2
+        description: | # this will include new lines to allow paragraphs    
+          * 리액트 공부를 위해 개념 및 기술을 정리하여 기록
+
+      - layout: left
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #               # other value (or no value) means no border will be displayed
         title: movie-bank
         link: jsoh07.github.io/movie-bank
         link_text: 영화소개 사이트
@@ -105,15 +91,18 @@ content:
             icon: fab fa-github
             url: https://github.com/jsoh07/movie-bank
         quote: >
-          '웨이브'를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트 입니다.
+          리액트 공부를 위한 개인 프로젝트_1
         description: | # this will include new lines to allow paragraphs     
-        
-  - title: Project 2 # Title for the section
-    layout: list # Type of content section (list/text)      
-    content:
+          * '웨이브'를 오마주 해서 TMDB Api를 이용하여 React로 만든 영화 소개 사이트
+          * 카테고리 별 클릭했을 때 해당하는 영화들을 불러와 이미지 포스터로 소개
+          * 검색 기능을 넣어 영화 제목을 입력하면 이름이 포함된 영화들을 모두 보여줌
+          * 이미지 슬라이드를 만들어 상위 5개 영화만 불러와 보여줌
+          * 조건을 걸어 평점 7점 이상인 영화들과 현재 개봉 중인 영화, 개봉 예정작인 영화를 보여줌
+          * 모든 영화의 이미지 포스터는 클릭했을 때 상세 페이지를 보여줌 
+
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed    
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        #               # other value (or no value) means no border will be displayed    
         title: weather-app
         link: jsoh07.github.io/weather-app
         link_text: 실시간 날씨 정보 사이트
@@ -122,23 +111,14 @@ content:
             icon: fab fa-github
             url: https://github.com/jsoh07/weather-app
         quote: >
-          openweathermap Api를 이용하여 React로 만든 실시간 날씨 정보 사이트 입니다.
+          리액트 공부를 위한 개인 프로젝트_2
         description: | # this will include new lines to allow paragraphs
-        
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed    
-        title: weather-app
-        link: jsoh07.github.io/weather-app
-        link_text: 실시간 날씨 정보 사이트2
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/jsoh07/weather-app
-        quote: >
-          openweathermap Api를 이용하여 React로 만든 실시간 날씨 정보 사이트 입니다.
-        description: | # this will include new lines to allow paragraphs  
-
+          * openweathermap Api를 이용하여 React로 만든 실시간 날씨 정보 사이트
+          * 현재 위치를 알 수 있는 함수를 만들어 현재 위치해 있는 도시의 날씨를 보여줌
+          * 검색창에 도시를 검색하면 날씨카드가 추가되며 기온을 보여줌
+          * 추가된 날씨카드를 클릭했을 때 팝업으로 날씨 상세 정보를 보여줌
+          * 날씨카드마다 삭제 버튼을 만들어 삭제할 수 있음
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
