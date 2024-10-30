@@ -52,9 +52,9 @@ content:
         title: 쉐어마인드
         sub_title: 2021.10 ~ 2023.06
         description: | # this will include new lines to allow paragraphs
-         * SI개발: `비상교육 온리원` 플랫폼 구축 및 개발 프로젝트의 개발팀에 속해 공지사항 게시판과 플랫폼 전체 카테고리 부분들을 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, MySql 들을 활용해 업무를 진행하였습니다.
+         * SI개발: `비상교육 온리원` 플랫폼 구축 및 개발 프로젝트의 개발팀에 속해 공지사항 게시판과 플랫폼 전체 카테고리 부분들을 맡아 Java, JSP, JavaScript, HTML, CSS, jQuery, MySql 들을 활용해 풀스택 업무를 진행하였습니다.
         
-         * SM(시스템 운영, 유지 보수): `EBSMath` 사이트에서 이벤트 파트를 맡아 이벤트 페이지 개발 및 유지보수를 진행하였고 Java, JSP, JavaScript, HTML, CSS, jQuery, Oracle, MySql 들을 활용하였습니다.
+         * SM(시스템 운영, 유지 보수): `EBSMath` 사이트에서 이벤트 파트를 맡아 이벤트 페이지 개발 및 유지보수를 진행하였고 Java, JSP, JavaScript, HTML, CSS, jQuery, Oracle, MySql 들을 활용하여 풀스택 업무를 진행하였습니다.
   
   - title: Portfolio # Title for the section
     layout: list # Type of content section (list/text)
@@ -119,16 +119,16 @@ content:
           * 추가된 날씨카드를 클릭했을 때 팝업으로 날씨 상세 정보를 보여줌
           * 날씨카드마다 삭제 버튼을 만들어 삭제할 수 있음
       
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      이전 회사에서 백엔드 개발자로 시작하였지만 맡은 업무를 진행하면서 백엔드 뿐만 아니라,   
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     이전 회사에서 백엔드 개발자로 시작하였지만 맡은 업무를 진행하면서 백엔드 뿐만 아니라,   
       
-      프론트도 하면서 만들고 바꾸면서 나타나는 화면이 재밌었고 흥미가 생겨서 프론트엔드 개발자를 꿈꾸게 되었습니다.
+  #     프론트도 하면서 만들고 바꾸면서 나타나는 화면이 재밌었고 흥미가 생겨서 프론트엔드 개발자를 꿈꾸게 되었습니다.
 
-      수많은 도전과 경험을 통해 다양한 기술 스택을 쌓아 적재적소에 알맞은 기술을 적용하여
+  #     수많은 도전과 경험을 통해 다양한 기술 스택을 쌓아 적재적소에 알맞은 기술을 적용하여
     
-      최고의 UX를 제공할 수 있는 프론트엔드 개발자가 되고 싶습니다. 
+  #     최고의 UX를 제공할 수 있는 프론트엔드 개발자가 되고 싶습니다. 
       
      
     
